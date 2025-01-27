@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+a93b91ce5b27d09f29b26ca6c03693282b81c675 refs/remotes/origin/DevBase_Eros_Branch
+0309c6d8ca26cf93002a003f48880147c85c1215 refs/remotes/origin/Eros_Branch
+d8f2fb57b4e0f0c8e2528ddbe040c64d6414f5c2 refs/remotes/origin/Eros_Branch_New
+7526e2c854ee977846fa0952dedbd51613939152 refs/remotes/origin/Guillermo_Branch
+643b323452238394420d024ab932b6ec465951df refs/remotes/origin/Oliver_Branch
+06b07440de00d01f70cc9f97927ed71c10843e97 refs/remotes/origin/dev
+619231ad1f283e0405c5001def69fe3cbf500db2 refs/remotes/origin/main
